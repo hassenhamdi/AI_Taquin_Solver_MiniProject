@@ -11,7 +11,11 @@ AI Mini project ,Taquin Puzzle Solver using different Search Algorithms :
  
  and GUI version :
  
- https://github.com/hassenhamdi/AI_Taquin_Solver_MiniProject/assets/74272600/e984bf38-49ab-47be-bd4c-186621a477c6
+ https://github.com/hassenhamdi/AI_Taquin_Solver_MiniProject/assets/74272600/e3b80d21-403d-4c59-8a1b-4a20efa38187
+
+
+
+
 
 
   
